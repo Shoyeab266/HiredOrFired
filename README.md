@@ -1,4 +1,5 @@
 # HiredOrFired
+HEAD
 
 AI-powered mock interview web app. Practice job interviews with voice and text, get smart follow-ups, and receive detailed feedback — all at zero infrastructure cost.
 
@@ -58,3 +59,5 @@ Open [http://localhost:3000](http://localhost:3000) in Chrome or Edge.
 ## Privacy
 
 All user data is stored locally in IndexedDB. The only external requests are to the LLM APIs for generating interview questions and feedback. No backend database, no user accounts, no analytics.
+Practice job interviews with an "AI interviewer" that asks role-specific questions, listens to your spoken answers, follows up in real time, and gives you a feedback report. 100% free stack, no backend database.
+161718cd8273ebfc0d53c96db0758afdcd8a0a27
